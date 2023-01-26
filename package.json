@@ -15,7 +15,7 @@
     "gulp-hub": "frankwallis/gulp-hub#d461b9c700df9010d0a8694e4af1fb96d9f38bf4",
     "gulp-filter": "^5.0.0",
     "gulp-util": "^3.0.8",
-    "browser-sync": "^2.18.8",
+    "browser-sync": "^2.27.11",
     "browser-sync-spa": "^1.0.3",
     "karma": "^1.4.1",
     "karma-coverage": "^1.1.1",
